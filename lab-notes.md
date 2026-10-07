@@ -14,4 +14,7 @@
 ## Partner's Contribution
 abiodun akpata
 Naafiu Baadmus
-Ahmed Mohamed
+Ahmed Mohamed 
+
+# second partner 
+NAFF
